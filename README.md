@@ -1,16 +1,9 @@
 # appification
 
-App mit Anwendungsbeispielen
+Warum diese App?
 
-## Getting Started
+Warum sollte ein Flutter-Entwickler auf Papier verzichten? Weil es viel aussagekräftiger ist, 
+seine Fähigkeiten durch funktionierende Anwendungen zu demonstrieren, anstatt sie nur aufzulisten. 
+Deshalb habe ich mich entschieden, eine "Minimum Viable Product"-App zu entwickeln, die meine 
+Herangehensweise an verschiedene Herausforderungen bei der Erstellung von Software für Android- und iOS-Geräte dokumentiert.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
